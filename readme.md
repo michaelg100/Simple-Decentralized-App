@@ -14,7 +14,7 @@ make project folder
 
 `cd election`
 
-start truffle project
+to start a base truffle project (not needed if using the code in this repo)
 
 `../node_modules/.bin/truffle unbox pet-shop`
 
